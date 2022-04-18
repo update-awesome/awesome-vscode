@@ -227,10 +227,10 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
 # Official
 
 - [Official website](https://code.visualstudio.com/)
-- [Source code](https://github.com/microsoft/vscode) on GitHub
+- <code>130275</code> ![](https://img.shields.io/github/last-commit/microsoft/vscode) [Source code](https://github.com/microsoft/vscode) on GitHub
 - [Releases (stable channel)](https://code.visualstudio.com/download)
 - [Releases (insiders channel)](https://code.visualstudio.com/insiders)
-- [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+)
+- <code>130275</code> ![](https://img.shields.io/github/last-commit/Microsoft/vscode) [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+)
 
 # Syntax
 
@@ -271,7 +271,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
-- [Wenyan](https://github.com/antfu/wenyan-lang-vscode)
+- <code>&nbsp;&nbsp;&nbsp;257</code> ![](https://img.shields.io/github/last-commit/antfu/wenyan-lang-vscode) [Wenyan](https://github.com/antfu/wenyan-lang-vscode)
 - [Zephir](https://marketplace.visualstudio.com/items?itemName=zephir-lang.zephir)
 
 # Migrating from other editors
@@ -306,7 +306,7 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 
 Microsoft created a collection of recipes for using VS Code with particular technologies (mostly Web).
 
-Make sure to visit it at [Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes)
+Make sure to visit it at <code>&nbsp;&nbsp;5357</code> ![](https://img.shields.io/github/last-commit/Microsoft/vscode-recipes) [Microsoft/vscode-recipes](https://github.com/Microsoft/vscode-recipes)
 
 # Lint and IntelliSense
 
@@ -345,8 +345,8 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [Clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd) - Provides C/C++ language IDE features for VS Code using clangd: code completion, compile errors and warnings, go-to-definition and cross references, include management, code formatting, simple refactorings.
 - [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - Provide Intellisense for C/C++ with the help of the GNU Global tool.
 - [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://ycm-core.github.io/YouCompleteMe/).
-- [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
-- [CQuery](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server](https://github.com/jacobdufault/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
+- <code>&nbsp;&nbsp;&nbsp;117</code> ![](https://img.shields.io/github/last-commit/mitaki28/vscode-clang) [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
+- <code>&nbsp;&nbsp;&nbsp;&nbsp;52</code> ![](https://img.shields.io/github/last-commit/cquery-project/vscode-cquery) [CQuery](https://github.com/cquery-project/vscode-cquery) - <code>&nbsp;&nbsp;2345</code> ![](https://img.shields.io/github/last-commit/jacobdufault/cquery) [C/C++ language server](https://github.com/jacobdufault/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
 
 #### More
 
@@ -399,12 +399,12 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ## Haskell
 
 - [haskell-linter](https://marketplace.visualstudio.com/items?itemName=hoovercj.haskell-linter)
-- [Haskell IDE engine](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server) - provides [language server](https://github.com/haskell/haskell-ide-engine) for stack and cabal projects.
+- [Haskell IDE engine](https://marketplace.visualstudio.com/items?itemName=alanz.vscode-hie-server) - provides <code>&nbsp;&nbsp;2426</code> ![](https://img.shields.io/github/last-commit/haskell/haskell-ide-engine) [language server](https://github.com/haskell/haskell-ide-engine) for stack and cabal projects.
 
 ## HLSL
 
 - [HLSL Tools](https://marketplace.visualstudio.com/items?itemName=TimGJones.hlsltools) - provides rich language support for editing HLSL files in VS Code
-  ![Example of statement completion using HLSL Tools for VS Code](https://github.com/tgjones/HlslTools/raw/master/src/ShaderTools.VSCode/art/statement-completion.gif)
+  !<code>&nbsp;&nbsp;&nbsp;385</code> ![](https://img.shields.io/github/last-commit/tgjones/HlslTools) [Example of statement completion using HLSL Tools for VS Code](https://github.com/tgjones/HlslTools/raw/master/src/ShaderTools.VSCode/art/statement-completion.gif)
 
 ## Shell
 
@@ -422,21 +422,21 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [TS/JS postfix completion](https://marketplace.visualstudio.com/items?itemName=ipatalas.vscode-postfix-ts)
 
-![TS/JS postfix completion demo](https://github.com/ipatalas/vscode-postfix-ts/raw/master/images/demo-multiline.gif)
+!<code>&nbsp;&nbsp;&nbsp;102</code> ![](https://img.shields.io/github/last-commit/ipatalas/vscode-postfix-ts) [TS/JS postfix completion demo](https://github.com/ipatalas/vscode-postfix-ts/raw/master/images/demo-multiline.gif)
 
 - [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - This extension provides AI-assisted development features including autocomplete and other insights based on understanding your code context.
 ![Visual Studio IntelliCode](https://docs.microsoft.com/en-us/visualstudio/intellicode/media/python-intellicode.gif)
 
-See the difference between these two [here](https://github.com/michaelgmcd/vscode-language-babel/issues/1)
+See the difference between these two <code>&nbsp;&nbsp;&nbsp;119</code> ![](https://img.shields.io/github/last-commit/michaelgmcd/vscode-language-babel) [here](https://github.com/michaelgmcd/vscode-language-babel/issues/1)
 
 ### Linters
 
 - [tslint (deprecated)](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - TSLint for Visual Studio Code (with `"tslint.jsEnable": true`).
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](https://eslint.org/).
-- [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO](https://github.com/xojs/xo).
-- [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava).
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier](https://github.com/prettier/prettier-vscode).
+- [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for <code>&nbsp;&nbsp;6531</code> ![](https://img.shields.io/github/last-commit/xojs/xo) [XO](https://github.com/xojs/xo).
+- [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for <code>&nbsp;19743</code> ![](https://img.shields.io/github/last-commit/avajs/ava) [AVA](https://github.com/avajs/ava).
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for <code>&nbsp;&nbsp;4247</code> ![](https://img.shields.io/github/last-commit/prettier/prettier-vscode) [Prettier](https://github.com/prettier/prettier-vscode).
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling Checker for Visual Studio Code (English). Also supports other languages via external extensions.
 
 - [Schema.org Snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org) - Snippets for [Schema.org](https://schema.org/).
@@ -467,7 +467,7 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 
 ### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-> Linter for [markdownlint](https://github.com/DavidAnson/markdownlint).
+> Linter for <code>&nbsp;&nbsp;3033</code> ![](https://img.shields.io/github/last-commit/DavidAnson/markdownlint) [markdownlint](https://github.com/DavidAnson/markdownlint).
 
 ### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
@@ -935,7 +935,7 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 > Paste code with "correct" indentation
 
-![Indentation of pasted code animation](https://github.com/vikrantnegi/vscode-personal-preference-setting/blob/master/screenshots/pasteandindent.gif)
+!<code>&nbsp;&nbsp;&nbsp;&nbsp;21</code> ![](https://img.shields.io/github/last-commit/vikrantnegi/vscode-personal-preference-setting) [Indentation of pasted code animation](https://github.com/vikrantnegi/vscode-personal-preference-setting/blob/master/screenshots/pasteandindent.gif)
 
 ## [Sort Lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
 
@@ -953,7 +953,7 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 > Wraps selection or multiple selections with symbol or multiple symbols
 
-![Wraps selection or multiple selections with symbol or multiple symbols animation](https://github.com/gko/wrap/blob/master/features.gif)
+!<code>&nbsp;&nbsp;&nbsp;&nbsp;11</code> ![](https://img.shields.io/github/last-commit/gko/wrap) [Wraps selection or multiple selections with symbol or multiple symbols animation](https://github.com/gko/wrap/blob/master/features.gif)
 
 ## [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle)
 
@@ -964,7 +964,7 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 ![Auto import](https://camo.githubusercontent.com/c952445b4a04a9d358be991cc2d830f2a4c0f33b/68747470733a2f2f67696679752e636f6d2f696d616765732f6175746f696d706f72742e676966)
 
-## [shell-format](https://github.com/foxundermoon/vs-shell-format)
+## <code>&nbsp;&nbsp;&nbsp;278</code> ![](https://img.shields.io/github/last-commit/foxundermoon/vs-shell-format) [shell-format](https://github.com/foxundermoon/vs-shell-format)
 > shell script & Dockerfile & dotenv format
 
 ![shell-format](https://raw.githubusercontent.com/foxundermoon/vs-shell-format/master/image/shell_format.gif)
@@ -1124,7 +1124,7 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 > View an SVG in the editor and export it as data URI scheme or PNG.
 
-![SVG Viewer](https://github.com/cssho/vscode-svgviewer/blob/master/img/preview.png)
+!<code>&nbsp;&nbsp;&nbsp;&nbsp;63</code> ![](https://img.shields.io/github/last-commit/cssho/vscode-svgviewer) [SVG Viewer](https://github.com/cssho/vscode-svgviewer/blob/master/img/preview.png)
 
 ## [Text Marker (Highlighter)](https://marketplace.visualstudio.com/items?itemName=ryu1kn.text-marker)
 
@@ -1156,8 +1156,8 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
-- [Essence](https://github.com/essence-language/vscode-extension)
-- [Pragmatic Essence](https://github.com/orta/Essence)
+- <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1</code> ![](https://img.shields.io/github/last-commit/essence-language/vscode-extension) [Essence](https://github.com/essence-language/vscode-extension)
+- <code>&nbsp;&nbsp;&nbsp;&nbsp;74</code> ![](https://img.shields.io/github/last-commit/orta/Essence) [Pragmatic Essence](https://github.com/orta/Essence)
 
 ## Syntax
 
@@ -1315,7 +1315,7 @@ Minimal monochrome theme.
 
 ### [Monokai Oblique by pushqrdx](https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode)
 
-Monokai inspired theme for [Visual Studio Code](https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode) and [Visual Studio IDE](https://github.com/pushqrdx/monokai).
+Monokai inspired theme for [Visual Studio Code](https://vscodethemes.com/e/pushqrdx.theme-monokai-oblique-vscode) and <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6</code> ![](https://img.shields.io/github/last-commit/pushqrdx/monokai) [Visual Studio IDE](https://github.com/pushqrdx/monokai).
 
 <a href="https://marketplace.visualstudio.com/items?itemName=pushqrdx.theme-monokai-oblique-vscode">
   <img src="./themes/screenshots/moblique.png" width="600" />
@@ -1423,7 +1423,7 @@ A list of Twitter accounts for various people in the VS Code Community
 
 ## Libraries
 
-- [vscode-test-content](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
+- <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3</code> ![](https://img.shields.io/github/last-commit/mlewand-org/vscode-test-content) [vscode-test-content](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
 - [typed-vscode](https://www.npmjs.com/typed-vscode) - Generates types from contribution points of your extension manifest
 
 ## Tools
@@ -1431,12 +1431,12 @@ A list of Twitter accounts for various people in the VS Code Community
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - Visual Studio Live Share enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building.
 - [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
-- [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
+- <code>&nbsp;&nbsp;&nbsp;817</code> ![](https://img.shields.io/github/last-commit/sozercan/OpenInCode) [Open in Code](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 
 ![macOS Finder toolbar app to open current folder in Visual Studio Code animation](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 
 - [Themer](https://themer.dev) - Easily create your own theme for VS Code (and matching ones for your other tools).
-- [Azure Tools for Visual Studio Code](https://github.com/bradygaster-zz/azure-tools-vscode) - This extension for Visual Studio Code gives Azure developers some convenient commands for creating or accessing resources directly in the editor.
+- <code>&nbsp;&nbsp;&nbsp;&nbsp;30</code> ![](https://img.shields.io/github/last-commit/bradygaster-zz/azure-tools-vscode) [Azure Tools for Visual Studio Code](https://github.com/bradygaster-zz/azure-tools-vscode) - This extension for Visual Studio Code gives Azure developers some convenient commands for creating or accessing resources directly in the editor.
 
 ![azure-tools-vscode](https://raw.githubusercontent.com/johnpapa/vscode-azure-functions-tools/master/images/json-schema-function.gif)
 
